@@ -1,4 +1,4 @@
-![BannerGIF](https://github.com/jeff-try-code/jeff-try-code/blob/main/Jeff%20Jiang.gif)
+![BannerGIF](https://github.com/jeff-try-code/jeff-try-code/blob/main/banner.gif)
 
 ### Hi there 👋
 
