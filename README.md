@@ -1,12 +1,13 @@
 ![BannerGIF](https://github.com/jeff-try-code/jeff-try-code/blob/main/banner.gif)
 
-### Hi there 👋
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! I'm Jeff
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=AbhishekSinghDhadwal&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+##  🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/jeff-try-code/"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jeff.try.code@gmail.com"><img src="https://img.shields.io/badge/-jeff.try.code@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 <!--
 **jeff-try-code/jeff-try-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
