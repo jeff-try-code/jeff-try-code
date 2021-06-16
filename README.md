@@ -25,7 +25,10 @@ I am a Full Stack developer with some industry experience in my pocket. I am ver
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />  
   <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
 </p>
-    
+
+## 🎨 &nbsp;Projects
+<a href="https://github.com/hratx-blue-ocean/diverr">diverr</a> ![](https://media.giphy.com/media/gkihsToPQCgBc6El4X/giphy.gif) | <a href="https://github.com/ht-atx55-team-timbre/project-catwalk">Jeff's Secret</a> ![](https://github.com/ht-atx55-team-timbre/project-catwalk/blob/master/client/data/gifs/reviews.gif) 
+--- | --- 
 
 ## 📊 &nbsp;Stats
 
