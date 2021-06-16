@@ -5,7 +5,7 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jeff-try-code/"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jeff-try-code/"><img src="https://img.shields.io/badge/-Jeff%20Jiang-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jeff.try.code@gmail.com"><img src="https://img.shields.io/badge/-jeff.try.code@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
