@@ -2,6 +2,8 @@
 
 # <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! I'm Jeff
 
+I am a Full Stack developer with some industry experience in my pocket. I am very interested in doing front-end development. The creativity and the never-ending learning journey are something that I love. I specialize in JavaScript and have professional experience working with React. I also have experience working with MongoDB, Express.js, and Node.js. 
+
 ## 📊 &nbsp;Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff-try-code)](https://github.com/anuraghazra/github-readme-stats)
