@@ -4,16 +4,27 @@
 
 I am a Full Stack developer with some industry experience in my pocket. I am very interested in doing front-end development. The creativity and the never-ending learning journey are something that I love.
 
+##  🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/jeff-try-code/"><img src="https://img.shields.io/badge/-Jeff%20Jiang-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jeff.try.code@gmail.com"><img src="https://img.shields.io/badge/-jeff.try.code@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
+
+
 ## 🚀 &nbsp;Skills
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-0088CC?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img alt="Express" src="https://img.shields.io/badge/express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img alt="Material-UI" src="https://img.shields.io/badge/Material%20ui-2496ED?logo=Material-UI&logoColor=white&style=for-the-badge" />
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=for-the-badge" />
+  <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+
 </p>
     
 
@@ -21,13 +32,6 @@ I am a Full Stack developer with some industry experience in my pocket. I am ver
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff-try-code)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-##  🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/jeff-try-code/"><img src="https://img.shields.io/badge/-Jeff%20Jiang-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jeff.try.code@gmail.com"><img src="https://img.shields.io/badge/-jeff.try.code@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **jeff-try-code/jeff-try-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
