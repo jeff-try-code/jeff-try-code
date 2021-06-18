@@ -27,11 +27,11 @@ I am a Full Stack developer with some industry experience in my pocket. I am ver
 </p>
 
 ## 🎨 &nbsp;Projects
-| <a href="https://github.com/hratx-blue-ocean/diverr">diverr</a> | <a href="https://github.com/ht-atx55-team-timbre/project-catwalk">Jeff's Secret</a> |
+| | |
 | :-------------: | :-------------: |
-| ![](https://media.giphy.com/media/gkihsToPQCgBc6El4X/giphy.gif) | ![](https://github.com/ht-atx55-team-timbre/project-catwalk/blob/master/client/data/gifs/reviews.gif) | 
-| <a href="https://github.com/jeff-try-code/resume-helper">Resumeee</a> | |
-| ![](https://github.com/jeff-try-code/resume-helper/blob/main/gif/about.gif) | |
+| <a href="https://github.com/hratx-blue-ocean/diverr">diverr</a>![](https://media.giphy.com/media/gkihsToPQCgBc6El4X/giphy.gif) | <a href="https://github.com/ht-atx55-team-timbre/project-catwalk">Jeff's Secret</a>![](https://github.com/ht-atx55-team-timbre/project-catwalk/blob/master/client/data/gifs/reviews.gif) | 
+| <a href="https://github.com/jeff-try-code/resume-helper">Resumeee</a>![](https://github.com/jeff-try-code/resume-helper/blob/main/gif/about.gif) | |
+
 ## 📊 &nbsp;Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff-try-code)](https://github.com/anuraghazra/github-readme-stats)
