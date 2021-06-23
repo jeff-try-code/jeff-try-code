@@ -4,7 +4,7 @@
 
 I am a Full Stack developer with some industry experience in my pocket. I am very interested in doing front-end development. The creativity and the never-ending learning journey are something that I love.
 
-- 🌱 I’m currently learning UX Design
+- 🌱  I’m currently learning UX Design
 
 ##  🤝🏻 &nbsp;Connect with Me
 
