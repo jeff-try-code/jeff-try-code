@@ -5,7 +5,7 @@
 I am a Full Stack developer with a special interest in front-end development. The creativity and the never-ending learning journey are something that I love.
 
 - 🌱  I’m currently learning UX Design
-- 🔭 I’m currently working on portfolio web page https://jeff-try-code.github.io/
+- 🔭 I’m currently working on portfolio web page https://jeff-try-code.github.io/ (building .... )
 
 
 ##  🤝🏻 &nbsp;Connect with Me
