@@ -2,9 +2,9 @@
 
 # <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! I'm Jeff
 
-I am a Full Stack developer with a special interest in front-end development. The creativity and the never-ending learning journey are something that I love.
+I am a Full Stack developer with a special interest in front-end development. The creativity and the never-ending learning journey are something that I love!
 
-- 🌱  I’m currently learning UX Design
+- 🌱 I’m currently learning UX Design
 - 🔭 I’m currently working on portfolio web page
 
 
